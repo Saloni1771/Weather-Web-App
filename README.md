@@ -9,4 +9,4 @@ Fork the repository.
 
 Navigate to the required directory (cd\<address\>).
 
-This webapp is live at https://goodgoingweather.herokuapp.com/index.html
+
